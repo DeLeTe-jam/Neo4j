@@ -1,4 +1,5 @@
 head,tail,relation,label
+反应堆冷却剂系统,环路1,include,包含
 反应堆冷却剂系统,环路2,include,包含
 环路1,1×热段管段+2×冷段管段,include,包含
 环路2,1×热段管段+2×冷段管段,include,包含
